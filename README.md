@@ -1,6 +1,6 @@
 HealthOS Assignment - A simple E-Commerce admin web app.
 
-***in case you face any issues with sign-in /signup, log in with this number and OTP***
+***in case you face any issues with sign-in /signup, log in with this dummy number and OTP***
                 Number: +8801222222222
                 OTP : 123456
 ***************************************************************************************
