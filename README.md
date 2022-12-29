@@ -6,6 +6,7 @@ Pages -
 
 1. Home (/)
 2. sign-in or sign-up (/sign-in)
+
    **private routes (to access these route user must be logged in)**
 3. All products view (/products)
 4. One individual Products details view (products/:id) where users can go by clicking the product title.
