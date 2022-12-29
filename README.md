@@ -5,7 +5,7 @@ HealthOS Assignment - A simple E-Commerce admin web app.
                 OTP : 123456
 ***************************************************************************************
 
-Live site -
+**Live site - https://63adf0686b660225a4321116--preeminent-cheesecake-e4b9c6.netlify.app/
 
 Pages -
 
